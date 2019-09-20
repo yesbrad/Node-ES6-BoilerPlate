@@ -1,0 +1,1 @@
+console.log('Node Js ES6 Boiler plate')
